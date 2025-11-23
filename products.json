@@ -12,5 +12,12 @@
     "description": "2025 New model ladies' flat shoes",
     "price": "1800",
     "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763883490461_ID8.jpg"
+  },
+  {
+    "category": "Kids Clothes",
+    "name": "Kids Clothe",
+    "description": "2025 New Model",
+    "price": "2000",
+    "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763883881304_id11.jpg"
   }
 ]
