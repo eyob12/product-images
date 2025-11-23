@@ -23,5 +23,18 @@
       "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763885171504_image_1.jpg"
     ],
     "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763885168021_image_0.jpg"
+  },
+  {
+    "category": "Shoes",
+    "name": "Flat Shoes -ID40",
+    "description": "2025 New Model",
+    "price": "3500",
+    "images": [
+      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763886843178_image_0.jpg",
+      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763886845883_image_1.jpg",
+      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763886847528_image_2.jpg",
+      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763886849240_image_3.jpg"
+    ],
+    "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763886843178_image_0.jpg"
   }
 ]
