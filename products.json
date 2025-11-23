@@ -23,16 +23,5 @@
       "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763884533378_image_1.jpg"
     ],
     "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763884520481_image_0.jpg"
-  },
-  {
-    "category": "Kids Clothes",
-    "name": "Kids clothe",
-    "description": "2025 New model",
-    "price": "200",
-    "images": [
-      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763884547753_image_0.jpg",
-      "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763884548719_image_1.jpg"
-    ],
-    "image": "https://raw.githubusercontent.com/eyob12/product-images/main/images/1763884547753_image_0.jpg"
   }
 ]
